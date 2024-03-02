@@ -41,7 +41,7 @@ public class App {
 	public static void  iniciarApp() {
 
 		
-		
+		System.out.println("-------------------TESTE-----------------------------------------------------------");
 		
 		System.out.println("------------------------------------------------------------------------------");
 		System.out.println("-----------Bem vindo ao Controle de O.S da MMMLavadouras----------------------");
